@@ -3,6 +3,8 @@
 1) PRIMITIVE => call by value hote hai means when we will copy it to somewhare means only data copy honga not a refrence means not a memory refrrence means whatever changes we will do it wiil change in copy only 
       -7 types 
       -String, Number, Boolearn, null, undefined, Symbol, BigInt
+
+    **** STACK memory will be used
       
 */
 
@@ -24,9 +26,13 @@ console.log(id === anotherId);
 
 /*
 
- 2)  Reference (Non primitive) => pass by refrence
+ 2)  Reference (Non primitive) => pass by refrence honga means copy karne par origional copy move hogi
 
     - Array, Objects, Functions
+
+    **** HEAP memory will be used
+
+
 */
 
     const heros = ["shaktiman", "naagraj", "doga"];
