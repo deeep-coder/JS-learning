@@ -31,8 +31,3 @@ console.log(instructor);
 //     "price": "free"
 // }
 
-[
-    {},
-    {},
-    {}
-]
