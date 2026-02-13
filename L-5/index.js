@@ -30,4 +30,4 @@ let ans =null;  // null
 
 console.log(typeof isLoggedIn);
 console.log(typeof undefined); // undefined
-console.log(typeof null); // null ek object hai so it will shows /* object */ 
+console.log(typeof null); // null ek object hai so it will shows "object" 
